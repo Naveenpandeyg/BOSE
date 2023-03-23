@@ -1,0 +1,19 @@
+*{
+   margin: 0;
+   padding:0;
+   box-sizing: 0; 
+}
+.container{
+    background-color:#0000ff;
+    min-height: 100vh;
+    border: 18px solid 
+
+
+}  
+
+.content {
+
+    max-width: 980px;
+    margin:0 auto;
+}
+                                                                                  
